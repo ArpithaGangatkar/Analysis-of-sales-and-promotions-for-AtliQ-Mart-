@@ -13,11 +13,6 @@ DashBoard Link:- https://app.powerbi.com/view?r=eyJrIjoiZDM5YmVjODYtYzA2NC00ODg0
 4. so that this report built to help Sales Director So that they can make informed decisions for their next promotional period.
 
 
-## Usage
-1. Clone the repository: git clone https://github.com/RavinaKarnik/AtliQ-Mart-
-2. Open the Excel files in Microsoft Excel or any compatible spreadsheet software.
-3. Navigate to the respective reports to access the analysis and insights.
-4.Customize the reports as per your requirements by modifying the data sources or adding additional calculations.
 
 ## Contributing
 Contributions are welcome! If you have any ideas, suggestions, or improvements, please open an issue or submit a pull request.
